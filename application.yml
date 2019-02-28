@@ -4,9 +4,9 @@ logging:
     root: FATAL 
     io:
       pivotal: DEBUG
-    org:
-      apache:
-        http: DEBUG
+#     org:
+#       apache:
+#         http: DEBUG
 #    com:
 #      netflix: ERROR
 #        eureka: DEBUG #'OFF'
